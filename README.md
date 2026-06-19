@@ -76,6 +76,7 @@ This project aims to:
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 ```
 vendor-performance-analysis/
+|
 ├── notebooks/               #Jupyter Notebooks for EDA and Analysis
 │   ├── Exploratory_Data_Analysis.ipynb
 │   └── vendor_performance_analysis.ipynb 
@@ -201,7 +202,7 @@ python scripts/get_vendor_summary.py
 - 'notebooks/vendor_performance_analysis.ipynb'
 
 ### 6. Open Power BI Dashboard
-- Open 'dashboards/vendor_performance_dashboard.pbix' in Power BI Desktop.
+- Open 'dashboard/dashboard.pbix' in Power BI Desktop.
 
 ---
 
